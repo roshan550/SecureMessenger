@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100389163882",
+    "firebase_url": "https://messenger-4b35b-default-rtdb.firebaseio.com",
+    "project_id": "messenger-4b35b",
+    "storage_bucket": "messenger-4b35b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100389163882:android:cb0d4d0e01af11efba8b13",
+        "android_client_info": {
+          "package_name": "com.roshan.securemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100389163882-d6vphhvmuuueni2gbauimvsjejqlopne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtzlaIAYu5M8KlNMiyQiJvJsBuIq51xns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100389163882-d6vphhvmuuueni2gbauimvsjejqlopne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
